@@ -1,0 +1,19 @@
+{
+  "name": "coss.io",
+  "version": "0.0.1",
+  "description": "COSS.io API Wrapper",
+  "author": "Jan (impmja) Schulte",
+  "license": "MIT",
+  "private": true,
+  "engineStrict": true,
+  "engines": {
+		"node": ">= 9.2.0"
+	},
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "request": "2.83.0"
+  }
+}

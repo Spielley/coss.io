@@ -1,2 +1,3 @@
 # coss.io
-COSS.io API Wrapper
+
+Very simple, not even close to fully finished COSS.io API Wrapper.
